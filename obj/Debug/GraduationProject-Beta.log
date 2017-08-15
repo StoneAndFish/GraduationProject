@@ -1,0 +1,10 @@
+﻿  ClassicalLayout.cpp
+C:\Users\Administrator\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofVec3f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\desktop\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\desktop\of_v0.9.8_vs_release\apps\myapps\graduationproject-beta\src\octree.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\desktop\of_v0.9.8_vs_release\apps\myapps\graduationproject-beta\src\common.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\desktop\of_v0.9.8_vs_release\apps\myapps\graduationproject-beta\src\third-party/xmempool/xmempool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  GraduationProject-Beta.vcxproj -> C:\Users\Administrator\Desktop\of_v0.9.8_vs_release\apps\myApps\GraduationProject-Beta\bin\GraduationProject-Beta_debug.exe
+  GraduationProject-Beta.vcxproj -> bin\GraduationProject-Beta_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\Administrator\Desktop\of_v0.9.8_vs_release\export\vs\Win32\
